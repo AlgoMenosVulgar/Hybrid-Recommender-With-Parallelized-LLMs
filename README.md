@@ -37,7 +37,7 @@ print(recs)
 
 *Set **`COL_WEIGHTS = {"tags":0.5, "genres":0.3, "tags":0.15, "year": 0.05}`** as needed.*
 
-## Fine Tunning
+## Fine-Tuning
 
 - Change `COL_WEIGHTS` for if you want to build a recommendation system that values a column more than other, for instance you may think that "year" is far more relevant than only 0.05.
 
