@@ -1,6 +1,6 @@
-# Movie‑Tag Recommender (SBERT)
+# Movie recommender (SBERT) via tags aumentation with parallelized LLMs using APIs
 
-Tiny Python pipeline that embeds movie metadata with a SentenceTransformer and returns cosine‑similar recommendations.
+A small Python pipeline that embeds movie metadata with a SentenceTransformer and returns cosine‑similar recommendations. It uses LLMs for data augmentation via parallelized APIs to save time and resources.
 
 ## Requirements
 
